@@ -72,6 +72,7 @@ If you want to add charts to your habits, you'll definitely need JavaScript. Che
 2. (Satisfactory) Has CSS (provided by custom stylesheet, library, or framework) to make the site usable.
 3. (Exemplary) Care taken with design features to make the site easy to use and/or accessible. Has sensible defaults throughout the application.
 
+
 ### Django usage
 
 1. (Unsatisfactory) Does not store data via models, does not use forms, or does not use GET and POST for views correctly.
